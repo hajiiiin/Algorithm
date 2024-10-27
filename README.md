@@ -8,3 +8,7 @@
 
   
 ## Greedy
+- coin change
+- fractional knasack
+- job scheduling
+- set cover
